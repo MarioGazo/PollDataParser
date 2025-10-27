@@ -3,8 +3,7 @@ from csv import reader
 from json import dumps
 
 
-HEADER: str = """
-{
+HEADER: str = """{
     "license": "CC0-1.0",
     "description": {
         "en": "Opinion polling for ****"
